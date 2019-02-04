@@ -1,5 +1,7 @@
 # Calculator 
 
+#A Calculator that does the basic math such as add, subtract, multiply, and divide.
+
 
 
 def add(x, y):
